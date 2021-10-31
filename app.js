@@ -189,3 +189,8 @@ function willBuyDrink(isHotOutside, moneyInPocket){
 
 //Question 13
 
+function createBusinessName(firstPart, lastPart){
+  return firstPart + ' ' + lastPart;
+}
+
+console.log("Coding", "Stuff");
